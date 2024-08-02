@@ -1,0 +1,6 @@
+[submodule "netmatters"]
+	path = netmatters
+	url = https://github.com/wigscs/netmatters
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/wigscs/portfolio
