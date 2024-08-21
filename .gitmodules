@@ -6,3 +6,6 @@
 	path = portfolio
 	url = https://github.com/wigscs/portfolio
 	branch = main
+[submodule "jsarray"]
+	path = jsarray
+	url = https://github.com/wigscs/jsarray.git
